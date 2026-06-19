@@ -7,7 +7,7 @@ class Engineer:
     def __init__(self):
         self.focus = ["systems programming", "network security", "distributed systems"]
         self.currently_building = "JAVIN Share — cross-platform LAN file transfer"
-        self.currently_learning = ["low-level networking internals", "competitive DSA"]
+        self.currently_learning = ["low-level networking internals", "DSA"]
 ```
 
 **What I'm building**
