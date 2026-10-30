@@ -32,5 +32,4 @@ class Engineer:
 
 ---
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=venkatbayanaboina&show_icons=true&theme=default&hide_border=true&count_private=true)
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=venkatbayanaboina&layout=compact&hide_border=true&theme=default)
+
