@@ -5,7 +5,7 @@ I like working close to the metal: file transfer protocols, intrusion detection 
 ```
 class Engineer:
     def __init__(self):
-        self.focus = ["systems programming", "network security", "distributed systems", "applied AI"]
+        self.focus = ["machine Learning" ," Deep Learning " , "Agentic AI", "Retrival Augumented genenration", "network security", "distributed systems", "applied AI"]
         self.currently_building = "OpsPilot — AI SRE agent with a deterministic safety architecture"
         self.currently_learning = ["low-level networking internals", "DSA", "agentic evaluation methodology"]
 ```
